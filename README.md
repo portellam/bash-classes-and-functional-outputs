@@ -1,4 +1,4 @@
-# Bash Explained: "Classes" and Functions with "Outputs"
+# Bash "Classes" and Functional "Outputs"
 ### Status: Work-in-progress
 
 Bash script programming is useful. A developer can automate tasks, install software, make changes to live system, etc.
