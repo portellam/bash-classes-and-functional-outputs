@@ -1,0 +1,1 @@
+# bash-classes-and-functional-outputs
