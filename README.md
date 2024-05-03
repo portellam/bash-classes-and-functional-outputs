@@ -13,12 +13,13 @@ Bash supports functions with input variables (**arguments**), and variable-types
   - [**1.a. Arguments**]
   - [**1.b. Differences in Bash**]
   - [**1.c. References**]
-  - [**1.d. Inherited** Variables]
+  - [**1.d. Inherited Variables**]
   - [**1.e. Functional Output Example**]
 - [**2. Classes**]
   - [**2.a. Definition**]
   - [**2.b. Differences in Bash**]
-  - [**2.c. Class-like Example**]
+  - [**2.c. "Class" Example**]
+  - [**2.d. Concerns**]
 
 ## Contents
 
@@ -29,10 +30,11 @@ Bash supports functions with input variables (**arguments**), and variable-types
 #### 1.d. Inherited Variables
 #### 1.e. Functional Output Example
 
-### 2. Classes**]
+### 2. Classes
 #### 2.a. Definition
 #### 2.b. Differences in Bash
-#### 2.c. Class-like Example
+#### 2.c. "Class" Example
+#### 2.d. Concerns
 
 ## Old Contents
 
