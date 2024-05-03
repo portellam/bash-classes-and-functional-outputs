@@ -1,17 +1,12 @@
 # Bash "Classes" and Functional "Outputs"
 ### Status: Work-in-progress
 
-Bash script programming is useful. A developer can automate tasks, install software, make changes to live system, etc.
+Bash script programming is useful. A developer can automate tasks, install software, make changes to a system, etc.
 However, Bash is not without it's challenges and shortcomings.
 
-One feature that is missing, are **classes**.
-Another feature, is functional **outputs**.
+Two features missing in the Bash language are **classes**, and functional **outputs**. These may be implemented in an unconventional way.
 
-However, something similar to classes and functional outputs can be implemented, albeit in an unintended way.
-
-Bash supports functions with input variables (arguments), and variables of types **Reference** and **Inherited**.
-
-The following documentation is an overview of how to implement these in Bash.
+Bash supports functions with input variables (**arguments**), and variable-types **reference** and **inherited**. The following documentation is an overview of how to implement a **class** and functional **outputs**.
 
 ## Table of Contents
 - [**1. Functions**]
